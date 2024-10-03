@@ -1,0 +1,99 @@
+[
+    {
+        "model": "api.furniture",
+        "pk": 1,
+        "fields": {
+            "name": "Modern Ceramic Lamp",
+            "description": "A sleek and stylish ceramic lamp that adds a modern touch to any room.",
+            "price": "299.99",
+            "available": true,
+            "category": "Home Decoration",
+            "image": "table1.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 2,
+        "fields": {
+            "name": "Soft Seater Chair",
+            "description": "A comfortable and plush seater chair, perfect for relaxing in style.",
+            "price": "49.99",
+            "available": true,
+            "category": "Home Decoration",
+            "image": "table1.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 3,
+        "fields": {
+            "name": "Elegant Wooden Table",
+            "description": "A beautifully crafted wooden table that adds elegance to your home.",
+            "price": "120.50",
+            "available": true,
+            "category": "Home Decoration",
+            "image": "table1.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 4,
+        "fields": {
+            "name": "Round Wood Table",
+            "description": "A classic round wooden table, perfect for dining or displaying decor.",
+            "price": "199.99",
+            "available": true,
+            "category": "Home Decoration",
+            "image": "table1.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 5,
+        "fields": {
+            "name": "Ceramic Art Set",
+            "description": "A set of beautifully crafted ceramic pieces to elevate your home decor.",
+            "price": "120.50",
+            "available": true,
+            "category": "Home Decoration",
+            "image": "table1.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 6,
+        "fields": {
+            "name": "Copper Tea Jug Set",
+            "description": "An exquisite copper tea jug set that combines style with functionality.",
+            "price": "120.50",
+            "available": true,
+            "category": "Home Decoration",
+            "image": "table1.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 7,
+        "fields": {
+            "name": "Steel Pot Jug",
+            "description": "A durable steel pot jug, ideal for serving and adding a modern look to your kitchen.",
+            "price": "120.50",
+            "available": true,
+            "category": "Home Decoration",
+            "image": "table1.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 8,
+        "fields": {
+            "name": "Bamboo Sofa",
+            "description": "A comfortable bamboo sofa, combining eco-friendly materials with a natural aesthetic.",
+            "price": "120.50",
+            "available": true,
+            "category": "Home Decoration",
+            "image": "table1.jpg"
+        }
+    }
+    
+]

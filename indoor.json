@@ -1,0 +1,98 @@
+[
+    {
+        "model": "api.furniture",
+        "pk": 17,
+        "fields": {
+            "name": "Round Steel Tea Table",
+            "description": "A stylish round steel tea table, perfect for adding a modern touch to your indoor space.",
+            "price": "49.99",
+            "available": true,
+            "category": "Indoor Decoration",
+            "image": "indoor_images/round_steel_tea_table.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 18,
+        "fields": {
+            "name": "Microfiber Bed Pillow",
+            "description": "A soft and comfortable microfiber bed pillow, ideal for a restful night's sleep.",
+            "price": "89.99",
+            "available": true,
+            "category": "Indoor Decoration",
+            "image": "indoor_images/microfiber_bed_pillow.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 19,
+        "fields": {
+            "name": "Office Leather Sofa",
+            "description": "A luxurious office leather sofa designed for comfort and style in any indoor setting.",
+            "price": "149.99",
+            "available": true,
+            "category": "Indoor Decoration",
+            "image": "indoor_images/office_leather_sofa.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 20,
+        "fields": {
+            "name": "0.5 Watt Night Lamp",
+            "description": "An energy-efficient 0.5 watt night lamp that provides gentle illumination for a cozy atmosphere.",
+            "price": "199.99",
+            "available": true,
+            "category": "Indoor Decoration",
+            "image": "indoor_images/night_lamp.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 21,
+        "fields": {
+            "name": "Copper Flower Vase",
+            "description": "An elegant copper flower vase that adds a touch of sophistication to any indoor decor.",
+            "price": "79.99",
+            "available": true,
+            "category": "Indoor Decoration",
+            "image": "indoor_images/copper_flower_vase.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 22,
+        "fields": {
+            "name": "Plain Elegant Lamp",
+            "description": "A sleek and plain elegant lamp that complements a variety of indoor decor styles.",
+            "price": "99.99",
+            "available": true,
+            "category": "Indoor Decoration",
+            "image": "indoor_images/plain_elegant_lamp.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 23,
+        "fields": {
+            "name": "Indoor Plant Pot",
+            "description": "A stylish indoor plant pot that adds a touch of greenery and enhances the beauty of your indoor space.",
+            "price": "159.99",
+            "available": true,
+            "category": "Indoor Decoration",
+            "image": "indoor_images/indoor_plant_pot.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 24,
+        "fields": {
+            "name": "Adjustable Leather Sofa",
+            "description": "A versatile adjustable leather sofa that provides both comfort and style for any indoor setting.",
+            "price": "129.99",
+            "available": true,
+            "category": "Indoor Decoration",
+            "image": "indoor_images/adjustable_leather_sofa.jpg"
+        }
+    }
+]

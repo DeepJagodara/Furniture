@@ -1,0 +1,98 @@
+[
+    {
+        "model": "api.furniture",
+        "pk": 9,
+        "fields": {
+            "name": "Single Seater Sofa Chair",
+            "description": "A comfortable single seater sofa chair, perfect for relaxing in your office or home.",
+            "price": "199.99",
+            "available": true,
+            "category": "Office Decoration",
+            "image": "office_images/single_seater_sofa_chair.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 10,
+        "fields": {
+            "name": "Handmade Floral Vase",
+            "description": "A beautifully crafted handmade floral vase, ideal for adding elegance to your office decor.",
+            "price": "349.99",
+            "available": true,
+            "category": "Office Decoration",
+            "image": "office_images/handmade_floral_vase.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 11,
+        "fields": {
+            "name": "Creative Bonsai Plant",
+            "description": "A lifelike creative bonsai plant, bringing a touch of nature and calmness to your workspace.",
+            "price": "149.99",
+            "available": true,
+            "category": "Office Decoration",
+            "image": "office_images/creative_bonsai_plant.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 12,
+        "fields": {
+            "name": "Foam Cooling Pillow",
+            "description": "A foam cooling pillow that provides extra comfort and support during long office hours.",
+            "price": "499.99",
+            "available": true,
+            "category": "Office Decoration",
+            "image": "office_images/foam_cooling_pillow.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 13,
+        "fields": {
+            "name": "Living Room Sofa",
+            "description": "A stylish living room sofa that blends well in both home and office spaces.",
+            "price": "59.99",
+            "available": true,
+            "category": "Office Decoration",
+            "image": "office_images/living_room_sofa.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 14,
+        "fields": {
+            "name": "Wooden Sofa Chair",
+            "description": "A traditional wooden sofa chair, offering a blend of classic design and modern comfort.",
+            "price": "199.99",
+            "available": true,
+            "category": "Office Decoration",
+            "image": "office_images/wooden_sofa_chair.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 15,
+        "fields": {
+            "name": "Adjustable Single Sofa",
+            "description": "A versatile adjustable single sofa, great for both office seating and relaxing.",
+            "price": "799.99",
+            "available": true,
+            "category": "Office Decoration",
+            "image": "office_images/adjustable_single_sofa.jpg"
+        }
+    },
+    {
+        "model": "api.furniture",
+        "pk": 16,
+        "fields": {
+            "name": "Stone Decor Set",
+            "description": "A set of decorative stones to add a modern and natural touch to your office environment.",
+            "price": "299.99",
+            "available": true,
+            "category": "Office Decoration",
+            "image": "office_images/stone_decor_set.jpg"
+        }
+    }
+]
